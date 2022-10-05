@@ -1,0 +1,5 @@
+{"user_id": 123, "request": "гранит"}
+{"user_id": 123, "request": "кружка"}
+{"user_id": 123, "request": "boba"}
+{"user_id": 123, "request": "чай"}
+

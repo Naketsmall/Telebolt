@@ -1,0 +1,3 @@
+{'request': 'Миг-21', 'link': 'https://www.avito.ru/moskva/kollektsionirovanie/legendarnye_samolety_4_mig-21_1120_deagostini_2278263626?slocation=107620', 'user_id': '0'}
+{'request': 'кружка', 'link': 'https://www.avito.ru/moskva/posuda_i_tovary_dlya_kuhni/bokaly_kremanki_steklo_sssr_1197225029?slocation=107620', 'user_id': 123}
+{'request': 'чай', 'link': 'https://www.avito.ru/moskva/produkty_pitaniya/chay_zelenyy_s_imbirem_1_kg_1877284414', 'user_id': 123}
